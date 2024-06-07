@@ -1,0 +1,109 @@
+
+body {
+  background-image: url(indeximage.jpg);
+  background-size: cover;
+  background-position:center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  height: 450px;
+  margin: 100px auto;
+  background-image: url(8764038.jpg);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+  padding: 50px;
+  box-shadow: 0 0 10px rgba(28, 170, 31, 0.1);
+  text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+  color: deepskyblue;
+  margin-bottom: 20px;
+}
+form{
+    display: block;
+}
+button[type="submit"] {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+#btn-predict {
+  background-color: #e17d12;
+  color: black;
+  padding: 10px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+#btn-predict:hover {
+  background-color: yellow;
+}
+
+#btn-predict:active {
+  background-color:yellow;
+}
+
+#result {
+  display: none;
+  border: 2px solid #ccc; 
+  border-radius: 5px; 
+  padding: 10px; 
+  margin-top: 20px; 
+  font-size: 25px; 
+  background-color: #f9f9f9; 
+}
+
+
+
+/* Hide the default file input appearance */
+#imageUpload {
+    display: none;
+  }
+  
+  /* Style the custom file input button */
+  .upload-label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .upload-label:hover {
+    background-color: #45a049;
+  }
+  
+  /* Style the file name display */
+  .file-name {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  footer {
+    background-color:aquamarine;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+
