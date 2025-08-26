@@ -6,12 +6,17 @@
 
 ### Training accuracy vs validation accuracy for each epochs
 <img width="572" height="428" alt="image" src="https://github.com/user-attachments/assets/06112da2-235d-4f34-9947-e6de2cc068cf" />
+
 ### Training loss vs validation loss for each epochs
 <img width="562" height="429" alt="image" src="https://github.com/user-attachments/assets/5928934e-4117-4206-8d3e-51d47e14cb91" />
 
 ### Refrences    .  
 •	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8659659/
+
 •	https://github.com/divyansh1195/Tomato-Leaf-Disease-Detection-
+
 •	https://github.com/JeyrajK/convolutional-neural-networks
+
 •	https://paperswithcode.com/method/inception-v3
+
 •	InceptionV3 (keras.io)
